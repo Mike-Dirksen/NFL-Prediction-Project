@@ -19,4 +19,5 @@ The NFL is a well researched and dynamic game with many new inputs changing game
 5. Which teams tend to outperform betting spreads, and what common traits do they have?
 6. Can we develop a rolling power ranking system that updates weekly based on team performance metrics and opponent strength?
 7. Are there matchups or coaching schemes that consistently suppress specific player performances?
+
 I will try to use this Analysis to make a good match and player predicitor for this upcoming season. I also want to see if I can understand the game on a deeper level through the analysis. Before it begins, I want to put together predictions for all matchups that will take place and final rankings. Even though I have an initial deadline of June 23rd for the project I see this extending well into the summer. 
